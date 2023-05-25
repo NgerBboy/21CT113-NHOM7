@@ -1,0 +1,8 @@
+[Customer: huy (54352)
+Date: 2023-05-13
+address: ld
+phone: 63634443
+id invoice: 346346
+Items:
+- r: 3 x 5000.0 = 15000.0
+Total: 15000.0]
